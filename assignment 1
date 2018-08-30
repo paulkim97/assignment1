@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Assignment 1</title>
+</head>
+<body>
+	<h1>Top three skills</h1>
+	<ul>
+		<li>electronic music composition</li>
+		<li>Instrumental performance (guitar/piano)</li>
+		<li>strong interpersonal and client relationships</li>
+	</ul>
+
+	<h2>Most recent jobs</h2>
+	<ol>
+		<li>Sales trainer at IFAW</li>
+		<ul>
+			<li>donation (sales) quota of 12 subscribers per week</li>
+			<li>managing a sales team of maximum four members</li>
+			<li>interviewing potential team members</li>
+		</ul>
+		<li>Sales representative for Makeover Essentials</li>
+		<ul>
+			<li>sales quota of $120 worth of make up products per day</li>
+			<li>product knowledge for eye shadow palate, shimmer, hair straightener, lip gloss, nail kits, etc</li>
+		</ul>
+		<li>Dance Choreographer/teacher</li>
+		<ul>
+			<li>creating choreography for a hiphop dance team of 22</li>
+			<li>5 of 16 pieces for our spring showcase were made by either myself or by collaborations with other dancers</li>
+			<li>working with different styles of hiphop dance such as breaking, pop & lock, krumping, and footwork</li>
+		</ul>
+	</ol>
+</body>
+</html>
+
+
